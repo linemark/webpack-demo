@@ -35,6 +35,10 @@ Follow the Webpack-demo tutorial in the Webpack official documentation guides to
 
 - [Asset Modules](https://webpack.js.org/guides/asset-modules/)
 
+## Output Management
+
+- Preparation
+
 # Links
 
 Webpack: [guides](https://webpack.js.org/guides/)
