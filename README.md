@@ -38,6 +38,11 @@ Follow the Webpack-demo tutorial in the Webpack official documentation guides to
 ## Output Management
 
 - Preparation
+- Setting up HtmlWebpackPlugin
+
+##### Reference: 
+
+- [HtmlWebpackPlugin](https://github.com/jantimon/html-webpack-plugin)
 
 # Links
 
