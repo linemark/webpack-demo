@@ -22,8 +22,11 @@ Follow the Webpack-demo tutorial in the Webpack official documentation guides to
 > A chain is executed in reverse order. The first loader passes its result (resource with applied transformations) to the next one, and so forth.
 
 - Loading Images
+- Loading Fonts
 
+##### Reference: 
 
+- [Asset Modules](https://webpack.js.org/guides/asset-modules/)
 
 # Links
 
