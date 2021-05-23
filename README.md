@@ -19,9 +19,13 @@ Follow the Webpack-demo tutorial in the Webpack official documentation guides to
 - Setup
 - Loading CSS
 
+> A chain is executed in reverse order. The first loader passes its result (resource with applied transformations) to the next one, and so forth.
+
+- Loading Images
 
 
-## Links
+
+# Links
 
 Webpack: [guides](https://webpack.js.org/guides/)
 
