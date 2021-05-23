@@ -23,6 +23,13 @@ Follow the Webpack-demo tutorial in the Webpack official documentation guides to
 
 - Loading Images
 - Loading Fonts
+- Loading Data
+  - CSV
+  - XML
+  - JSON
+  - toml
+  - yaml
+  - json5
 
 ##### Reference: 
 
