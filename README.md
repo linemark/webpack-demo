@@ -39,6 +39,7 @@ Follow the Webpack-demo tutorial in the Webpack official documentation guides to
 
 - Preparation
 - Setting up HtmlWebpackPlugin
+- Cleaning up the `/dist` folder
 
 ##### Reference: 
 
